@@ -1,5 +1,8 @@
 _repo: The-kink_73536
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73536-h/images/cover.jpg
 creator:
   author:
     agent_name: Burtis, Thomson
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54799
     wikipedia: https://en.wikipedia.org/wiki/Thomson_Burtis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73536#The-kink
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
